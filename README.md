@@ -1,0 +1,2 @@
+# Trading
+A trading platform
